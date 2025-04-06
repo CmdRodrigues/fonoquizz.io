@@ -1,7 +1,7 @@
 const quizData = [
     {
-        question: "Quem foi o primeiro presidente do Brasil?",
-        options: ["Getúlio Vargas", "Juscelino Kubitschek", "Deodoro da Fonseca", "Dom Pedro II"],
+        question: "COCA COLA OU PEPSI?",
+        options: ["COCA, PEPSI"],
         answer: 2
     },
     {
