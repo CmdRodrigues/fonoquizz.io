@@ -1,7 +1,7 @@
 const quizData = [
     {
         question: "COCA COLA OU PEPSI?",
-        options: ["COCA, PEPSI"],
+        options: ["COCA", "PEPSI"],
         answer: 2
     },
     {
