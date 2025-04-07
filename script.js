@@ -1,7 +1,7 @@
 const quizData = [
     {
-        question: "Quem foi o primeiro presidente do Brasil?",
-        options: ["Getúlio Vargas", "Juscelino Kubitschek", "Deodoro da Fonseca", "Dom Pedro II"],
+        question: "Qual das alternativas apresenta um marco típico do desenvolvimento da linguagem aos 2 anos de idade?",
+        options: ["Produz frases complexas com sujeito e predicado.", "Utiliza entre 50 a 200 palavras e começa a formar frases de duas palavras.", "Nomeia cores primárias corretamente.", "Utiliza pronomes pessoais com consistência."],
         answer: 2
     },
     {
