@@ -1,12 +1,7 @@
 const quizData = [
     {
-        question: "Qual das alternativas apresenta um marco típico do desenvolvimento da linguagem aos 2 anos de idade?",
-        options: ["A) Produz frases complexas com sujeito e predicado."
-"B) Utiliza entre 50 a 200 palavras e começa a formar frases de duas palavras."
-"C) Nomeia cores primárias corretamente."
-"D) Utiliza pronomes pessoais com consistência."
-
-"],
+        question: "Quem foi o primeiro presidente do Brasil?",
+        options: ["Getúlio Vargas", "Juscelino Kubitschek", "Deodoro da Fonseca", "Dom Pedro II"],
         answer: 2
     },
     {
