@@ -5,13 +5,13 @@ const quizData = [
         answer: 2
     },
     {
-        question: "Em que ano o Brasil proclamou a sua independência?",
-        options: ["1822", "1831", "1889", "1500"],
+        question: "Na audiometria tonal limiar, a perda auditiva do tipo condutiva se caracteriza por:",
+        options: ["Alterações nas vias centrais auditivas com limiares normais.", "Presença de gap aéreo-ósseo com via óssea normal.", "Perda auditiva simétrica e neurossensorial.", "Limiares auditivos normais com queixa de zumbido."],
         answer: 0
     },
     {
-        question: "Onde foi a Batalha de Waterloo?",
-        options: ["França", "Alemanha", "Bélgica", "Inglaterra"],
+        question: "A respiração oral pode provocar, EXCETO",
+        options: ["Mordida aberta anterior.", "Hipotonia dos músculos orofaciais.", "Aumento da pressão intraoral.", "Alterações na postura da língua em repouso."],
         answer: 2
     }
 ];
